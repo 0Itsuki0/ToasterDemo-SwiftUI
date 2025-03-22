@@ -103,6 +103,12 @@ struct ContentView: View {
                 }, label: {
                     Text("Remove")
                 })
+                
+                Button(action: {
+                    removeToast()
+                }, label: {
+                    Text("Remove all")
+                })
             }
             
             Divider()
