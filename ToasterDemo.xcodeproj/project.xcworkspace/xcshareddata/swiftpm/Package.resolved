@@ -1,0 +1,15 @@
+{
+  "originHash" : "03a9eddedba55085d48158badb23eff49e878bf6995728e3066e9c3bff6d15f8",
+  "pins" : [
+    {
+      "identity" : "toaster-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0Itsuki0/Toaster-SwiftUI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fbb0bef4b0afdd07ae2cd810cda7829ed9bbf2c5"
+      }
+    }
+  ],
+  "version" : 3
+}
